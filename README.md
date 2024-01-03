@@ -49,6 +49,7 @@ If you'd like to add to this list, let us know by opening an issue or pull reque
 -   [thunderbiscuit on the Bitcoin Developers Podcast: BDK on Android](https://www.youtube.com/watch?v=r6opVPa9YJI)
 -   [Bitcoin Zavior on the Bitcoin Developers Podcast: Making your First BDK app using React Native](https://www.youtube.com/watch?v=gMpWA875go4)
 -   [Bitcoin Zavior on the Bitcoin Developers Podcast: Making your First BDK app using Flutter](https://www.youtube.com/watch?v=bd7_u-X6g5Y)
+-   [Alekos and Daniela on the Chaincode Podcast: Bitcoin Development Kit (BDK)](https://podcast.chaincode.com/2023/05/25/bdk-alekos-daniela)
 
 ## Other
 -   [Bitcoin Dev Kit Foundation](https://bitcoindevkit.org/foundation/)
