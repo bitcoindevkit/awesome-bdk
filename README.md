@@ -56,8 +56,11 @@ _Package Managers_
 -   [Seba Bank](https://www.seba.swiss/) — Get the most out of your assets with a regulated global crypto bank.
 -   [Smart Vaults](https://www.smartvaults.io/) — Collaborative bitcoin custody.
 -   [Spotbit](https://github.com/BlockchainCommons/spotbit) — Spotbit is a portable API for Bitcoin price data and candles.
--   [Live Wallet](https://github.com/Jwyman328/LiveWallet)
--   [PSBT Commander](https://github.com/Jared-Dahlke/psbt-commander)
+-   [Live Wallet](https://github.com/Jwyman328/LiveWallet) — Keep your utxos alive.
+-   [PSBT Commander](https://github.com/Jared-Dahlke/psbt-commander) — A PSBT creator.
+-   [Utreexod](https://github.com/utreexo/utreexod) — A full node with support for utreexo accumulators.
+-   [Bitcoin Safe](https://github.com/andreasgriffin/bitcoin-safe) — A bitcoin wallet for the entire family.
+-   [Volt Wallet](https://github.com/Zero-1729/volt) — A modern, descriptor-based, financial freedom bitcoin wallet.
 
 <br>
 
