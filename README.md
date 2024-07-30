@@ -51,11 +51,13 @@ _Package Managers_
 -   [Envoy by Foundation](https://foundationdevices.com/) — A Bitcoin wallet with powerful account management and privacy features.
 -   [Bull Bitcoin](https://www.bullbitcoin.com/) — A non-custodial Bitcoin-only exchange and payments service.
 -   [Lava](https://www.lava.xyz/) — Bitcoin-secured loans, global payments, instant bitcoin purchases, premium security.
--   [Padawan Wallet](https://padawanwallet.com/) — Learn to use bitcoin with testnet.
+-   [Padawan Wallet](https://padawanwallet.com/) — Learn to use bitcoin with signet coins.
 -   [BitMask Wallet](https://bitmask.app/) — Your Gateway to DeepWeb3 on Bitcoin.
 -   [Seba Bank](https://www.seba.swiss/) — Get the most out of your assets with a regulated global crypto bank.
 -   [Smart Vaults](https://www.smartvaults.io/) — Collaborative bitcoin custody.
 -   [Spotbit](https://github.com/BlockchainCommons/spotbit) — Spotbit is a portable API for Bitcoin price data and candles.
+-   [Live Wallet](https://github.com/Jwyman328/LiveWallet)
+-   [PSBT Commander](https://github.com/Jared-Dahlke/psbt-commander)
 
 <br>
 
