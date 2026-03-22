@@ -32,7 +32,7 @@ _Package Managers_
 
 ## Documentation
 -   [Official BDK Website](https://bitcoindevkit.org/)
--   [bdk_wallet API docs](https://docs.rs/bdk/latest/bdk_wallet/)
+-   [bdk_wallet API docs](https://docs.rs/bdk_wallet/latest/bdk_wallet/)
 -   [bdk_sqlite API docs](https://docs.rs/bdk_sqlite/latest/bdk_sqlite/)
 -   [bdk_file_store API docs](https://docs.rs/bdk_file_store/latest/bdk_file_store/)
 -   [bdk_esplora API docs](https://docs.rs/bdk_esplora/latest/bdk_esplora/)
